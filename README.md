@@ -1,12 +1,4 @@
-# Hi there, I'm Jonathan - aka [gogosimba] 👋 
 
-
-
-
-- 🔭 Hoping to be a frontend/backend developer someday!
-- 🌱 I’m currently studing frontend developing at EC utbildning in Halmstad, Sweden 🤣
-- 🥅 2023 Goals: Learn more about web3
-- ⚡ Fun fact: I like to cook, exercise and play games!
 
 
 
