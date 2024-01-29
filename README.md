@@ -4,6 +4,17 @@
 
 ###
 
+## Technologies I've Worked With
+
+- Docker & Docker Compose
+- C# (ASP.NET, .NET Core, Blazor, Entity Framework)
+- C/C++
+- Python
+- Cloud Providers (AWS)
+- SQL (SQL Server, MySQL)
+- Typescript and JavaScript (Node, React, Vue)
+- Java 
+
 ## In my free time
 In my free time, I love to explore my passion for technology and problem-solving. This often involves working on game modifications and plugins, writing  bots, and tackling any technical challenges that come my way, particularly if they offer an opportunity to learn something new.
 
