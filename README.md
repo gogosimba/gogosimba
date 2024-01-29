@@ -1,12 +1,14 @@
 ###
 
-<h3 align="center">:computer: Web and .NET developer :computer:</h3>
-
-###
-
 <h5 align="center">Currently studying Web/.NET development at EC Utbildning</h5>
 
 ###
+
+## In my free time
+In my free time, I love to explore my passion for technology and problem-solving. This often involves working on game modifications and plugins, writing  bots, and tackling any technical challenges that come my way, particularly if they offer an opportunity to learn something new.
+
+
+Github is a great platform for developers to showcase their work and connect with other developers. Feel free to check out my repositories or send me a message if you want to chat or collaborate on something.
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
